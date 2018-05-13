@@ -23,16 +23,6 @@
       "title": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "title": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "title": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "title": "Team"
