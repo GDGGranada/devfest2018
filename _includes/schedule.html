@@ -1,11 +1,12 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-        {% for day in site.data.schedule %}
+            <h2> ( ͡° ͜ʖ ͡°) Estamos trabajando en la agenda. La publicaremos tan pronto como sea posible. ¯\_(ツ)_/¯</h2>
+        <!-- {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
+                <div class="track-header-label">{{ forloop.index }}</div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
@@ -77,7 +78,7 @@
             </div>
             {% endfor %}
         </div>
-        {% endfor %}
+        {% endfor %} -->
     </div>
 </section>
 <!-- End Schedule Section -->
