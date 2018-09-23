@@ -1,59 +1,110 @@
 -
   id: 307
   title: "Coffee Break"
-  place: "Hall"
+  place: "Cafetería"
   service: true
   description: "The best time to talk with speakers and attendees"
+
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  id: 000
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: es
+  complexity: "Beginner"
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Humanizando tu asistente de voz"
+  description: "Ya todo estamos familiarizados con lo que es un asistente de voz como siri o assistant pero... cuanto de cómodo es hablar con una maquina que parece una máquina. Todos los esfuerzos de las grandes compañias estan puesto a día de hoy en hacer que los asistentes, no sean tan robóticos y en esta charla vamos a ver como con la tecnología que tenemos a nuestro alcance a día de hoy, podemos hacer esto posible."
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "One Flutter to rule them all"
+  description: "A punto de alcanzar su versión 1.0, Flutter está emergiendo como un candidato al trono de los SDK multiplataforma para iOS y Android. Por ahora, parece que ha encontrado su nicho en las consultoras que tienen entre manos proyectos efímeros o en fases iniciales. Sin embargo, la herramienta puede dar mucho más. En esta charla, discutiremos si puede tener sentido añadir Flutter a un proyecto existente de una de las dos plataformas (y si es posible); cogeremos un código Flutter para Android/iOS y lo desplegaremos en otros sistemas operativos como Chrome OS, Windows, Linux o MacOS; y hablaremos del sistema operativo donde Flutter es la forma nativa de hacer UI: Fuchsia. Todo esto en una charla con más código y menos slides. ¿Alguien dijo “efecto demo”? (edited)"
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [2]
+  language: es
+  complexity: "Beginner"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Dialogflow: chateando con las máquinas o al menos intentándolo"
+  description: "Es posible chatear con una máquina y no acabar hasta las narices de sus estúpidas respuestas. En los últimos años se ha popularizado el uso de sistemas conversacionales automáticos o chatbots que nos permite mejorar la interacción con muchos servicios y productos o en algunos casos empeorarlos.
+                En esta charla exploraremos cual es el proceso para crear un chatbot, que cosas debemos tener en cuenta y que explicaremos cómo funciona dialogflow creando un sencillo chatbot para interactuar mediante voz con nuestro chatbot. Tal vez incluso veamos algo de inteligencia artificial en el proceso."
   subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [3]
+  language: es
+  complexity: "Beginner"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
+  title: "Kubernetes, Istio & Kiali"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: es
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "kotlin para androides"
+  description: "Llevamos ya más de un año con Kotlin como lenguaje oficial para Android, y en el camino hemos aprendido mucho sobre como hacer las cosas mejor. En esta charla veremos como cambia nuestro código y exprimiremos la potencia del lenguaje, explicando propiedades que van a hacer nuestra vida más sencilla."
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Beginner"
+-
+  id: 006
+  title: "#AbadIA: Como creamos una AI para jugar y resolver La Abadía del Crimen"
+  description: "El día que creamos una AI que jugara a La Abadía del Crimen
+
+                ¿Conoces la Abadía del Crimen?
+
+                La abadía es un juego de 8-bit (para spectrum y CPC) que se convirtió en el primer juego RPG en 3D (2.5D) en 1987.
+                Este juego es una maravilla desde un punto de vista tecnológico:  en solo menos de 120k es capaz de almacenar el sonido, las imágenes, toda la lógica del programa y los datos .
+
+                ¿Conseguiste terminar el juego sin ayuda?
+
+                No conozco a nadie que se lo haya pasado  sin ayuda. Es uno de los  juegos mas complicados que se han desarrollado,  como unas 1000x comparado con la venganza de montezuma de Atari. Más o menos (5**7000x)
+
+                En la charla contaremos como diseñamos y construimos una AI capaz de jugar solo y aprender a completar el juego.
+                "
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Beginner"
+-
+  id: 007
+  title: "Transformando los datos en Google Cloud Platform"
+  description: "Como transformar datos en Google Cloud"
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: es
+  complexity: "Beginner"
+-
+  id: 008
+  title: "Integrating your IoT projects with Actions On Google"
+  description: "So you've put together a couple of IoT projects, and it'd be pretty cool if you were able to control them with your voice, right? In this deep dive we'll go through all the pieces you'll need to integrate your nifty gadgets with the Google Assistant. We'll showcase a neat demo project: a cute Lego house that's controlled with your voice and the new Lenovo smart display."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 009
+  title: "Keynote"
+  description: ""
+  subtype: presentation
+  speakers: [4,9]
+  language: es
+  complexity: "Beginner"
+
+-
+  id: 010
+  title: "End Keynote"
+  description: ""
+  subtype: presentation
+  speakers: [4,9]
+  language: es
+  complexity: "Beginner"

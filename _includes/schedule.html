@@ -1,8 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
-            <h2> ( ͡° ͜ʖ ͡°) Estamos trabajando en la agenda. La publicaremos tan pronto como sea posible. ¯\_(ツ)_/¯</h2>
-        <!-- {% for day in site.data.schedule %}
+        {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
@@ -53,7 +52,7 @@
                                                     </p>
                                                     </li>
                                                     {% endif %}
-                                                {% endfor %}    
+                                                {% endfor %}
                                             {% endfor %}
                                         </ul>
                                     </div>
@@ -62,7 +61,7 @@
                                 <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
                                     <div class="color-line"></div>
                                     <div class="slot-content">
-                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }} </h5>
                                         {% if session.description != null %}
                                         <p class="service-description">{{ session.description }}</p>
                                         {% endif %}
@@ -78,7 +77,7 @@
             </div>
             {% endfor %}
         </div>
-        {% endfor %} -->
+        {% endfor %}
     </div>
 </section>
 <!-- End Schedule Section -->

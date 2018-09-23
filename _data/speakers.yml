@@ -1,67 +1,116 @@
 - 
   id: 1
-  name: "Próximamente"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-#  thumbnailUrl: DawidOstrowski.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-# - 
-#   id: 4
-#   name: "Dmytro"
-#   surname: "Danylyk"
-#   company: "Lemberg Solutions Limited"
-#   title: "Android Developer"
-#   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#   thumbnailUrl: DmytroDanylyk.jpg
-#   rockstar: true
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-# - 
-#   id: 5
-#   name: "Mateusz"
-#   surname: "Herych"
-#   company: "Base CRM, GDG Krakow"
-#   title: "Software Engineer"
-#   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#   thumbnailUrl: MateuszHerych.jpg
-#   rockstar: true
-#   ribbon: 
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#     - {name: "twitter", link: "https://twitter.com/mherych"}
-# - 
-#   id: 6
-#   name: "Roman"
-#   surname: "Mazur"
-#   company: "Stanfy, GDG Kyiv"
-#   title: "Head of Android/Java Unit"
-#   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#   thumbnailUrl: RomanMazur.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-# - 
-#   id: 7
-#   name: "Valentyn"
-#   surname: "Shybanov"
-#   company: "Twinfield, GDG Kyiv"
-#   title: "Software engineer/country manager"
-#   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-#   thumbnailUrl: ValentynShybanov.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   social: 
-#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#     - {name: "site", link: "http://olostan.name/"}
+  name: "Borja"
+  surname: "Godoy Gago"
+  company: "IBM Research"
+  title: "Frontend developer"
+  bio: "Frontend developer en IBM Research. En busca del asistente de voz que me soluciione la vida, defensor de los web components a la vez que crítico con ellos. Ayudo en lo que puede en distintas comunidades como Google developer Groups y Open Source Weekends. Profesor en Fictizía y acerca a CollisionsProjects a la comunidad."
+  thumbnailUrl: borjagodoy.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/gody11"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/borja-godoy/"}
+-
+   id: 2
+   name: "Ruben"
+   surname: "Serrano"
+   company: "Wallapop"
+   title: "Senior Android Engineer"
+   bio: "Programador Android vocacional, actualmente trabaja como Senior Android Engineer en Wallapop, y es uno de los organizadores del GDG Barcelona. Anteriormente trabajó como Lead Android Developer en Redbooth, y ha sido profesor en la Universidad Autónoma de Barcelona. En su tiempo libre aprende Flutter y Fuchsia, pero sobretodo, a ser padre."
+   thumbnailUrl: rubenserrano.jpeg
+   rockstar: true
+   social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/rubenserranonunez/"}
+-
+   id: 3
+   name: "Moises"
+   surname: "Martinez"
+   company: "King College of London "
+   title: "Research"
+   bio: "I'm Moises, a PhD in Artificial Intelligence and robotics at King's College London. I LOVE Machine Learning, robots and AI in general. I am always looking for new challenges. "
+   thumbnailUrl: moises.jpg
+   rockstar: false
+   social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/momartinm/"}
+-
+   id: 4
+   name: "Alberto"
+   surname: "Gutierrez Juanes"
+   company: "RedHat"
+   title: "Engineer"
+   bio: ""
+   thumbnailUrl: alberto.jpeg
+   rockstar: true
+   ribbon:
+     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+     - {abbr: "GDD", title: "Google Developer Group", url: ""}
+   social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/gutierrezjuanesalberto/"}
+-
+   id: 5
+   name: "Jorge Juan"
+   surname: "Barroso Carmona"
+   company: "karumi"
+   title: ""
+   bio: "Trabajó en Tuenti entre 2009 a 2013 en el equipo equipo de android. Ha participado en varios proyectos móviles de la compañía como j2me, Blackberry y Android. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer. Desde hace un tiempo es Google Developer Expert en Android.."
+   thumbnailUrl: jorge-barroso.png
+   rockstar: true
+   ribbon:
+     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+   social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/jorge-juan-barroso-carmona-a3aa225/"}
+-
+   id: 6
+   name: "Juan Tomas"
+   surname: ""
+   company: "Sngular"
+   title: "Chief Envisioner Officer"
+   bio: "Chief Envisioner Officer at Sngular, Google Developer Expert for cloud, Author the Spanish free software book 'La Pastilla Roja'         Organizer of Machine Learning Spain and GDG cloud Madrid meetups.          Former President of Hispalinux (Spanish Linux Local User Group) ."
+   thumbnailUrl: juantomas.jpg
+   rockstar: false
+   ribbon:
+     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+   social:
+     - {name: "twitter", link: "https://plus.google.com/juantomas/"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/juantomasgarcia/"}
+-
+   id: 7
+   name: "Iván"
+   surname: "Fernández Perea"
+   company: "BBVA Next Technologies"
+   title: "Arquitecto Cloud & Big Data"
+   bio: "I am a Cloud & Big Data software engineer who has worked with technologies such as Hadoop, Spark or HBase on a Cloud environment (Amazon Web Services, Google Cloud, Microsoft Azure and IBM Softlayer). I have experience with Big Data related technologies like Flume, Kafka or Flink among others using Cloudera and Hortonworks distributions."
+   thumbnailUrl: ivan.jpg
+   rockstar: true
+   social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/ivanfernandezperea/"}
+-
+   id: 8
+   name: "Orestes"
+   surname: "Cararcedo"
+   company: "Lighthorse Consulting"
+   title: "Software Engineer "
+   bio: "Full-stack software developer living in Galicia, northwest Spain. Consultant, mentor, speaker and community organiser. Co-founder at Lighthorse Consulting"
+   thumbnailUrl: orestes.jpeg
+   rockstar: false
+   social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/orestesca/"}
+
+-
+   id: 9
+   name: "Israel"
+   surname: "Blancas"
+   company: "RTI"
+   title: "Software Engineer "
+   bio: "Ingeniero de Software en Real Time Innovations desde 2016.
+
+         Me encanta la creación de aplicaciones web, IoT (Internet de las Cosas) y todo lo que tenga que ver con la informática.
+
+         Organizador de charlas y eventos, principalmente con Google Developers Group Granada
+         Me apasiona asistir a charlas sobre cualquier tecnología y los hackathones, ya que considero que son el medio perfecto para aprender de otros profesionales en poco tiempo.
+
+         Amante del software libre."
+   thumbnailUrl: israel.jpeg
+   rockstar: false
+   social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/iblancasa/"}
