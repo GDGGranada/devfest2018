@@ -41,7 +41,7 @@
 -
   id: 004
   title: "Kubernetes, Istio & Kiali"
-  description: ""
+  description: "There are some open-source platforms for managing containerized workloads and services like Kubernetes, openshift ... But What is Istio? Istio helps reduce the complexity of these deployments, and eases the strain on your development teams. It is a completely open source service mesh that layers transparently onto existing distributed applications. And What are the microservices in my Istio service mesh doing ? Kiali is the answer for this question. Kiali provide the observability for the  Istio service mesh."
   subtype: presentation
   speakers: [4]
   language: es

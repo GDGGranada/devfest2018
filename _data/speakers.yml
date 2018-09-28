@@ -38,7 +38,7 @@
    surname: "Gutierrez Juanes"
    company: "RedHat"
    title: "Engineer"
-   bio: ""
+   bio: "Alberto is Software Engineer in RedHat working in opensource projects. He is currently working in Kiali, a observability tool for Istio Service Mesh. He was working in BBVA for almost 4 years working in cloud environments and BigData, certificated in Hadoop and OpenStack. He is Google Developer Expert in google Cloud and organizer of Google Developers Groups."
    thumbnailUrl: alberto.jpeg
    rockstar: true
    ribbon:
